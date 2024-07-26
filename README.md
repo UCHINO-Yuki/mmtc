@@ -10,7 +10,7 @@
 mmtc_compile;
 ```
 
-If this fails, try the following command and then recompile.
+If this failed, try the following command and then recompile.
 
 ```
 setenv("NVCC_APPEND_FLAGS", '-allow-unsupported-compiler');
